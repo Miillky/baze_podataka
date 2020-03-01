@@ -1,2 +1,2 @@
 # baze_podataka
-Baze podataka - Pradavanja i vježbe
+Baze podataka - Predavanja i vježbe
